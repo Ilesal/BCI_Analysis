@@ -1,0 +1,9 @@
+Description of the dataset used to run this analysis:
+
+we have 30 sessions in total performed by a healthy subject. 
+Each session last around 165s (5s+60s of resting state +5 trials). 
+One single trial consists of 10s Relax + 10s Push.
+
+Instructions provided to the subject: 
+Push Trials: “Imagine pushing forward and further away an object. As the object moves farther away, its size decreases.” 
+Relax Trials: “Imagine anything that can help you to relax” (example: blue sky)
