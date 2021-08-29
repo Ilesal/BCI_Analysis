@@ -22,8 +22,8 @@ Once the EEG data have been collected with Emotiv, they have been pre-processed 
 
  
  
-Then, I explored how this pipeline might affect the final decoding perfomance. I compared the perfomance of different decoders whe applied to preprocessed and non-preprocessed data. Similarly, the accuracy classification was compared when also different features were taken into account. 
-The best perfomance was achieved by SVM when applied to occipital alpha power features extracted with Morlet Wavelet Transform, reporting a 70% accuracy: 
+Then, I explored how this pipeline might affect the final decoding performance. I compared the performance of different decoders when applied to preprocessed and non-preprocessed data. Similarly, the accuracy classification was compared when also different features were taken into account. 
+The best performance was achieved by SVM when applied to occipital alpha power features extracted with Morlet Wavelet Transform, reporting a 70% accuracy: 
 
  <img src="https://github.com/Ilesal/BCI_Analysis/blob/main/images/first_res.png?raw=true" width="350px" height="auto">
 
