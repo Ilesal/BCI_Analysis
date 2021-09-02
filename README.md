@@ -37,8 +37,8 @@ and by LDA, with a 72% accuracy, when applied to spatial features extracted thro
 Project in collaboration with: 
 
  <p float="left">
- <img src="https://github.com/Ilesal/BCI_Analysis/blob/main/images/gold.png?raw=true" width="300px" height="auto">
- <img src="https://github.com/Ilesal/BCI_Analysis/blob/main/images/liquidweb.png?raw=true" width="200px" height="auto"> 
+ <img src="https://github.com/Ilesal/BCI_Analysis/blob/main/images/gold.png?raw=true" width="150px" height="auto">
+ <img src="https://github.com/Ilesal/BCI_Analysis/blob/main/images/liquidweb.png?raw=true" width="100px" height="auto"> 
 </p>
 
 
