@@ -33,7 +33,7 @@ and by LDA, with a 72% accuracy, when applied to spatial features extracted thro
  <img src="https://github.com/Ilesal/BCI_Analysis/blob/main/images/second_res.png?raw=true" width="600px" height="auto">
 
 
-Finally, we investigated the feasibility of discriminating between these two VI conditions using a CNN architecture inspired by Lun et al (2020), which achieved a lower performance compared to the previous techniques.Below the CNN architecture used:
+Finally, we investigated the feasibility of discriminating between these two VI conditions using a CNN architecture inspired by Lun et al (2020), which achieved a lower performance compared to the previous techniques. Below the CNN architecture used:
 
  <img src="https://github.com/Ilesal/BCI_Analysis/blob/main/images/cnn.png?raw=true" width="200px" height="auto">
 
