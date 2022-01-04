@@ -1,7 +1,7 @@
 # EEG-based BCI using Emotiv Epoc X and Visual Imagery
 
 
-In this project, I explored the feasibility of using Emotiv EPoc X to record a potential BCI control strategy based on the emergent Visual Imagery (VI) paradigm.
+In this project, I explored the feasibility of using Emotiv Epoc X to record a potential BCI control strategy based on the emergent Visual Imagery (VI) paradigm.
 The working of a BCI system is commonly composed of three basic components: signal acquisition, signal processing and control device, as shown below:
 
  
